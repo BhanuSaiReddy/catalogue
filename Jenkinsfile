@@ -4,4 +4,3 @@ env.codeType="nodejs"
 
 cipipeline()
 
-/
